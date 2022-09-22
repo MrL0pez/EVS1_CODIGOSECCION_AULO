@@ -37,7 +37,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
     'aulo_app1',
+
+    'aulo_app2',
+
 ]
 
 MIDDLEWARE = [
